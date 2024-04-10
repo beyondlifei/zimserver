@@ -1,0 +1,9 @@
+{
+  "name": "zimserver",
+  "version": "1.0.0",
+  "description": "Socket Server to Run ZIM Socket",
+  "dependencies": { 
+  	"express": ">= 2.0.0",
+  	"socket.io": ">= 1.0.0"
+  }
+}
